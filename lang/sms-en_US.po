@@ -1,0 +1,305 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ClassiPress SMS Payment Gateway - Mobio.bg\n"
+"POT-Creation-Date: 2013-06-16 11:41+0200\n"
+"PO-Revision-Date: 2013-06-16 11:41+0200\n"
+"Last-Translator: Bogdan Bocioaca <bogdan@grinmedia.ro>\n"
+"Language-Team: grinMedia <contact@grinmedia.ro>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/functions.php:210
+msgid "Contul tau a fost incarcat de pe numarul "
+msgstr "Your account has been added credit to from phone number "
+
+#: includes/functions.php:210
+msgid " cu suma de "
+msgstr "total amount of "
+
+#: includes/functions.php:235
+msgid "Ne pare rau."
+msgstr "We are sorry"
+
+#: includes/functions.php:239 includes/functions.php:251
+msgid "Valideaza"
+msgstr "Validate"
+
+#: includes/functions.php:248
+msgid "Ai un COD SMS? Valideaza-l mai jos"
+msgstr "Got a SMS code? Try validating it below"
+
+#: includes/functions.php:249
+msgid ""
+"*ATENTIE: Validarea codului va duce automat la incarcarea contului "
+"dumneavoastra"
+msgstr ""
+"*Warning: Validating your SMS code will automatically lead to adding credit "
+"to your account and making the code obsolete"
+
+#: includes/functions.php:304
+msgid " &euro; credit "
+msgstr "&euro; credit"
+
+#: includes/functions.php:304
+msgid "Incarca-ti contul SMS"
+msgstr "Add credit to your account"
+
+#: includes/functions.php:304
+msgid "Confirma Cod SMS"
+msgstr "Validate SMS code"
+
+#: includes/get_sms_code.php:55 includes/get_sms_code.php:68
+#: includes/get_sms_code.php:81
+msgid "Ceva e gresit. Incearca din nou"
+msgstr "Something went wrong. Please try again."
+
+#: includes/get_sms_code.php:84
+msgid "Optiunile tale"
+msgstr "Your options "
+
+#: includes/get_sms_code.php:84
+msgid "SUMA:"
+msgstr "Amount:"
+
+#: includes/get_sms_code.php:84
+msgid "Daca aceste informatii sunt corecte, te rugam sa trimiti un sms la nr."
+msgstr "If the above informations are correct, please send an SMS text to "
+
+#: includes/get_sms_code.php:84
+msgid "care sa contina urmatorul mesaj:"
+msgstr "with the following message"
+
+#: includes/get_sms_code.php:108
+msgid "Obtine Cod"
+msgstr "Get SMS code"
+
+#: includes/sms-gateway.php:6 includes/sms-gateway.php:7
+msgid "SMS Gateway - grinMedia.ro"
+msgstr "SMS Gateway - grinMedia.ro"
+
+#: includes/sms-gateway.php:16
+msgid "Cheie de licentiere"
+msgstr "License key"
+
+#: includes/sms-gateway.php:21
+msgid "ID User"
+msgstr "User Key"
+
+#: includes/sms-gateway.php:26
+msgid "Process URL"
+msgstr "Process URL"
+
+#: includes/sms-gateway.php:33
+msgid "SMS Payment Gateway"
+msgstr "SMS Payment Gateway"
+
+#: includes/sms-gateway.php:65
+msgid "SMS Gateway"
+msgstr "SMS Payment Gateway "
+
+#: includes/sms-gateway.php:68
+msgid "Instructiuni:"
+msgstr "Instructions"
+
+#: includes/sms-gateway.php:78
+msgid ""
+"Incarca-ti contul SMS. Pentru a face acest lucru este nevoie sa mergeti in "
+"dashboard-ul dvs."
+msgstr "Add credit to your account to pay. Visit your dashboard to do so."
+
+#: includes/sms-gateway.php:89
+msgid ""
+"Licenta SMS Invalida. Va rugam sa contactati administratorul site-ului "
+"pentru a continua."
+msgstr "Invalid SMS licence. Please contact the administrator to continue:"
+
+#: includes/sms-gateway.php:95 includes/sms-gateway.php:101
+msgid ""
+"Licenta SMS Expirata. Va rugam sa contactati administratorul site-ului "
+"pentru a continua."
+msgstr "Expired  SMS licence. Please contact the administrator to continue:"
+
+#: includes/sms-gateway.php:109
+msgid "Informatii Comanda"
+msgstr "Order informations"
+
+#: includes/sms-gateway.php:112
+msgid "ID Comanda:"
+msgstr "Order ID"
+
+#: includes/sms-gateway.php:113
+msgid "Total Comanda:"
+msgstr "Order Total:"
+
+#: includes/sms-gateway.php:116
+msgid "Pentru intrebari sau probleme, va rugam sa ne contactati la:"
+msgstr "For further questions please contact us at: "
+
+#~ msgid "Incarca-ti contul SMS pentru a plati"
+#~ msgstr "Add credit to your account to pay"
+
+#~ msgid "Optiuni SMS Payment Gateway"
+#~ msgstr "SMS Payment Gateway options"
+
+#~ msgid "Activeaza SMS Payement Gateway?"
+#~ msgstr "Enable SMS Payment Gateway"
+
+#~ msgid "Da"
+#~ msgstr "Yes"
+
+#~ msgid "Nu"
+#~ msgstr "No"
+
+#~ msgid "Iti trebuie un ID de SMS"
+#~ msgstr "You need a SMS ID"
+
+#~ msgid "Cheia de licentiere obtinuta la cumpararea produsului"
+#~ msgstr "License key you got when purchasing the product"
+
+#~ msgid "O gasiti pe http://grinmedia.ro/clienti/ sectiunea Serviciile Mele"
+#~ msgstr "You can find it at http://grinmedia.ro/clienti/ under My Services"
+
+#~ msgid "UserKey"
+#~ msgstr "UserKey"
+
+#~ msgid ""
+#~ "Va trebui sa mergeti pe %s, creati un cont si activati serviciul Reseller "
+#~ "Plati SMS. Veti primi un e-mail de confirmare cu SMS ID dvs."
+#~ msgstr ""
+#~ "You need to go to %s, create an account and request a Reseller SMS "
+#~ "service. You`ll receive an e-mail with your SMS Gateway ID"
+
+#~ msgid "Introdu SMS id tau. Vei gasi banii acolo."
+#~ msgstr "Your SMS ID here. Is where the money goes."
+
+#~ msgid "Process URL furnizat de noi"
+#~ msgstr "Process URL we provided"
+
+#~ msgid ""
+#~ "Process URL furnizat in e-mail la activarea serviciul Reseller Plati Prin "
+#~ "SMS"
+#~ msgstr ""
+#~ "Process URL provided in the e-mail when activating Reseller Plati prin SMS"
+
+#~ msgid "Detaliile tranzactiei."
+#~ msgstr "Transaction Details"
+
+#~ msgid "Continua"
+#~ msgstr "Continue"
+
+#~ msgid "Your Unique Ad Details"
+#~ msgstr "Detaliile Anuntului dvs."
+
+#~ msgid "ID Tranzactiei:"
+#~ msgstr "Transaction Details"
+
+#~ msgid "Numele pachetului:"
+#~ msgstr "Pack name:"
+
+#~ msgid "Nr. Tranzactiei:"
+#~ msgstr "Transaction #"
+
+#~ msgid "Suma Totala:"
+#~ msgstr "Total amount:"
+
+#~ msgid "Instructiuni de plata"
+#~ msgstr "Payment instructions"
+
+#~ msgid "Pentru a plati va rugam mergeti pe pagina Panoului de Control"
+#~ msgstr "To be able to pay please go to your Dashboard"
+
+#~ msgid ""
+#~ "<br /><strong>Licenta pluginului este invalida. Pentru a putea folosi "
+#~ "creditul sau a face plati pentru anunturi, va rugam contactati "
+#~ "administratorul site-ului. Va multumim!</strong>"
+#~ msgstr ""
+#~ "<br /><strong>Your license key is INVALID. To use the credit or make ad "
+#~ "payments, please contact the website admin. Thank you!</strong>"
+
+#~ msgid ""
+#~ "<br /><strong>Licenta pluginului a Expirat. Pentru a putea folosi "
+#~ "creditul sau a face plati pentru anunturi, va rugam contactati "
+#~ "administratorul site-ului. Va multumim!</strong>"
+#~ msgstr ""
+#~ "<br /><strong>Your license key is EXPIRED. To use the credit or make ad "
+#~ "payments, please contact the website admin. Thank you!</strong>"
+
+#~ msgid ""
+#~ "<br /><strong>Licenta pluginului este Suspendata. Pentru a putea folosi "
+#~ "creditul sau a face plati pentru anunturi, va rugam contactati "
+#~ "administratorul site-ului. Va multumim!</strong>"
+#~ msgstr ""
+#~ "<br /><strong>Your license key is SUSPENDED. To use the credit or make ad "
+#~ "payments, please contact the website admin. Thank you!</strong>"
+
+#~ msgid "ID SMS"
+#~ msgstr "SMS ID"
+
+#~ msgid "Moneda in care se fac platile"
+#~ msgstr "Collection curency symbol"
+
+#~ msgid "Simbolul monetar prin case se incaseaza platile in ClassiPress"
+#~ msgstr "The currency symbol used for collecting payments"
+
+#~ msgid ""
+#~ "Acelasi care este si in sectiunea ClassiPress -> Setari -> Incaseaza "
+#~ "platile in"
+#~ msgstr ""
+#~ "It must be the same as the on in ClassiPress -> Settings -> Pricing -> "
+#~ "Collect Payments in:"
+
+#~ msgid "Curs Valutar"
+#~ msgstr "Exchange rate"
+
+#~ msgid "Introduceti cursul de schimb valutar"
+#~ msgstr "Add the exchange rate value"
+
+#~ msgid ""
+#~ "Cursul il veti scrie in functie de cum se fac platile pe site. De ex: "
+#~ "Daca platile se fac in &euro;, cursul RON/EUR este de 4.4. etc."
+#~ msgstr ""
+#~ "The exchange rate for collectiong payments. For ex: If payments are made "
+#~ "in &euro;, the exchange RON/EUR is 4.4 etc."
+
+#~ msgid "ID serviciu"
+#~ msgstr "Service ID"
+
+#~ msgid "Va trebui sa intrati pe %s, creati un cont."
+#~ msgstr "You`ll have to go to %s and create an account."
+
+#~ msgid "Keyword"
+#~ msgstr "Keyword"
+
+#~ msgid "Keyword setat de dvs. in setarea serviciului Mobio.bg"
+#~ msgstr "Your keyword setup in Mobio.bg account"
+
+#~ msgid "Verifica instructiunile de utilizare pentru mai multe detalii "
+#~ msgstr "Check usage for more details"
+
+#~ msgid "Nr. Tel"
+#~ msgstr "Phone #:"
+
+#~ msgid "Nr. de telefon oferit de Mobio.bg"
+#~ msgstr "Phone number given by Mobio.bg"
+
+#~ msgid "Costul sms-ului"
+#~ msgstr "SMS Cost:"
+
+#~ msgid "Costul sms-ului afisat de Mobio.bg"
+#~ msgstr "The cost of the SMS offered by Mobio.bg"
+
+#~ msgid "Cod Invalid"
+#~ msgstr "Invalid Code!"
+
+#~ msgid ""
+#~ "You need to go to %s, create an account and request a Reseller SMS "
+#~ "service. You`ll receive an e-mail with your SMS Gateway ID"
+#~ msgstr ""
+#~ "Va trebui sa mergeti pe %s, creati un cont si activati serviciul Reseller "
+#~ "SMS. Veti primi un e-mail de confirmare cu SMS ID dvs."
